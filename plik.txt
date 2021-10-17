@@ -1,2 +1,4 @@
 Zmiana w pliku. 
 Zmiana w pliku testowa
+
+Dodanie nowej, eksperymentalnej funkcjonalnosci.
